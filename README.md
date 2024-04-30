@@ -14,7 +14,7 @@ Dell XPS 17 if you want a large-screen laptop for working from home
 ## the Digital Foundry article summarized by ChatGPT
 The article provides a comprehensive review of the 16-inch MacBook Pro by Apple. It highlights the laptop's impressive performance, including its powerful processor and excellent display quality. The review also praises the keyboard redesign and enhanced audio system. However, it notes the laptop's high price and relatively heavy weight as potential drawbacks. Overall, the MacBook Pro 16-inch is recommended for users who prioritize performance and are willing to invest in a premium device.
 
-# Top Laptops for Working from Home in 2024
+## Top Laptops for Working from Home in 2024
 
 This repository provides information on the top laptops recommended for working from home in 2024, as curated by Digital Trends. Whether you're on a budget or looking for a high-performance option, this list has something for everyone.
 
