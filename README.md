@@ -1,5 +1,5 @@
 # I asked the Internet what are the "Top Laptops for 2024"
-### asked what are the top laptops for 2024, google searched, used Microsoft Copilot and ChatGPT 3.5
+asked what the top laptops for 2024, google searched, used Microsoft Copilot and ChatGPT 3.5. Microsoft Copilot did a good job summarizing what the best laptops were, while also listing specs for each one. ChatGPT did a great job summarizing the Digital Foundry article but really didn't do much else. I'm sure with further tweaking my responses it might end up giving specs for each laptop.
 
 # This Microsoft Copilot's Response
 ## Top 5 Laptops for Working from Home (2024)
