@@ -92,7 +92,6 @@ If you're working remotely and need a reliable laptop, consider these top picks 
 Remember to choose a laptop that aligns with your specific needs and preferences. Happy coding! 🖥️💼
 
 
-
 ## Contributing
 
 If you have suggestions for additional laptops or improvements to the existing information, feel free to open an issue or submit a pull request.
